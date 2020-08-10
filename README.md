@@ -23,7 +23,7 @@ The objective of the puzzle is to insert a digit from 1 to 9 inclusive into each
 - I use the kakuro puzzles of AIMA
 - Experiment with algorithms: __Backtracking, Backtracking με FC,Backtracking με FC και MRV, Backtracking με MAC ,AC3, AC4__
 
-## Execution times
+## Execution time
 ![Execution time](/execution_times.png)
 ___Time measurement unit : μs (microseconds)___
 
