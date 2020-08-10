@@ -24,14 +24,14 @@ The objective of the puzzle is to insert a digit from 1 to 9 inclusive into each
 - Experiment with algorithms: __Backtracking, Backtracking με FC,Backtracking με FC και MRV, Backtracking με MAC ,AC3, AC4__
 
 ## Execution time
-![Execution time](/execution_times.png)
+![Execution time](/images/execution_times.png)
 ___Time measurement unit : μs (microseconds)___
 
 ## Number of assignments
-![Number of assignments](/numofAssignements.png)
+![Number of assignments](/images/numofAssignements.png)
 
 ## Remarks
-- Backtracking algorithm without any metrics takes the most time to finish because in every step checks all the comninations.
+- Backtracking algorithm without any metrics takes the most time to finish because in every step checks all the combinations.
 - By adding FC,MRV,MAC we notice that the algorithm makes some prunning (look-aheads because of the constraints)
 - Best algorithm is the backtracking-FC (with the most assignments although)
 
