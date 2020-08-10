@@ -5,7 +5,7 @@ Kakuro or Kakkuro (Japanese: カックロ) is a kind of logic puzzle that is oft
 The objective of the puzzle is to insert a digit from 1 to 9 inclusive into each white cell such that the sum of the numbers in each entry matches the clue associated with it and that no digit is duplicated in any entry. It is that lack of duplication that makes creating Kakuro puzzles with unique solutions possible. Like Sudoku, solving a Kakuro puzzle involves investigating combinations and permutations. There is an unwritten rule for making Kakuro puzzles that each clue must have at least two numbers that add up to it, since including only one number is mathematically trivial when solving Kakuro puzzles.
 
 ## Files and Directories
-- __kakuro.py__: contains my code and changes
+- __kakuro.py__: contains my code
 - __description__: contains
     - a pdf with the project description (in Greek) and some exercises
     - a pdf with some remarks for the project and solutions to the given exercises
